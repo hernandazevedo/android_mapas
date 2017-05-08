@@ -1,0 +1,7 @@
+#Tue Mar 28 20:44:05 BRT 2017
+base.0=C\:\\Users\\atc1n\\AndroidStudioProjects\\ProjetoMapa\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_45d836eae9e05fdeef02c56ac7904ef0da0a7475
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\atc1n\\AndroidStudioProjects\\ProjetoMapa\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_db67c65fc75f7883c692ffa48b95ab5b65539341\\classes.dex
+base.1=C\:\\Users\\atc1n\\AndroidStudioProjects\\ProjetoMapa\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_db67c65fc75f7883c692ffa48b95ab5b65539341
+file.0=C\:\\Users\\atc1n\\AndroidStudioProjects\\ProjetoMapa\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_45d836eae9e05fdeef02c56ac7904ef0da0a7475\\classes.dex
